@@ -1,7 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+  
+  
   *{
     margin: 0;
     padding: 0;
-    box-sizing:border-box
+    box-sizing:border-box;
+    font-family: 'Poppins';
   }
   .top-bar{
     width: 100%;
@@ -305,6 +310,7 @@ position: relative;
   background-color: #054c73;
   color:#dfe9f4;
   width: 100px;
+  border:none;
 }
 .footer1 .submit:hover{
   background-color: skyblue;
